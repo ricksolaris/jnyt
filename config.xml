@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.shareforce.jnyt"
+    version   = "1.0.0">
+
+<name>江南医坛</name>
+
+<description>
+江南医坛 移动版
+</description>
+
+<author href="http://www.shareforce.cn" email="dongqian@shareforce.cn">
+Dong Qian
+</author>
+
+</widget>
